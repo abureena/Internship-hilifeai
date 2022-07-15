@@ -1,6 +1,3 @@
-
-
-
 I am Red
 
 I am Blue
